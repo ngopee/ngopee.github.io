@@ -125,6 +125,8 @@
   }
   .carousel-indicators li {
     width: 0px;
+    length: 0px;
+    margin-left: 160px;
   }
   .carousel-caption {
     top: 10%;
