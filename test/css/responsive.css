@@ -102,7 +102,7 @@
     top: 15%;
   }
   .carousel-caption h1 {
-    font-size: 25px;
+    font-size: 20px;
     padding-top: 25px;
   }
 }
@@ -131,11 +131,11 @@
     padding-top: 25px;
   }
   .carousel-caption h1 {
-    font-size: 25px;
+    font-size: 20px;
     padding-top: 25px;
   }
   .button-container {
-    margin-top: 25px;
+    margin-top: 15px;
   }
   .about-us .jumbo-text {
     font-size: 32px;
