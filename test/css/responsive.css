@@ -103,7 +103,7 @@
   }
   .carousel-caption h1 {
     font-size: 35px;
-    padding-top: 20px;
+    padding-top: 30px;
   }
 }
 /* Mobile Portrait SIze to Mobbile Landsscape Size (devices and browers) */
@@ -128,11 +128,11 @@
   }
   .carousel-caption {
     top: 10%;
-    padding-top: 20px;
+    padding-top: 30px;
   }
   .carousel-caption h1 {
     font-size: 30px;
-    padding-top: 20px;
+    padding-top: 30px;
   }
   .button-container {
     margin-top: 25px;
